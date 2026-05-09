@@ -14,10 +14,10 @@ Requirements pytorch 1.8.1
 
 3D-GEGCL platform Tesla P100-PCIE-16
 
-tqdm 4.62.3
+tqdm 4.67.1
 
-python 1.7.1
+python 3.7.6
 
-numpy 1.21.2
+numpy 1.12.6
 
 The code of the 3D-GEGCL model will be upload after the paper be accepted.
