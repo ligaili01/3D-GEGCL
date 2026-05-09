@@ -10,7 +10,7 @@ Package description data Dataset used in the experiments in the article
 
 BACE_sample.py An example for usage
 
-Requirements pytorch 1.8.1
+Requirements pytorch 1.7.1
 
 3D-GEGCL platform Tesla P100-PCIE-16
 
