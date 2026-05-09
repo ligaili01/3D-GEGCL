@@ -10,14 +10,19 @@ Package description data Dataset used in the experiments in the article
 
 BACE_sample.py An example for usage
 
-Requirements pytorch 1.7.1
 
 3D-GEGCL platform Tesla P100-PCIE-16
 
-tqdm 4.67.1
-
-python 3.7.6
-
-numpy 1.12.6
+## Requirements
+- Python 3.7
+- PyTorch 1.13.1 (CUDA 11.7)
+- PyTorch Geometric 2.3.1
+- torch-scatter 2.1.0
+- torch-sparse 0.6.16
+- numpy 1.21.6
+- scikit-learn 1.0.2
+- DGL 2.0.0
+- e3nn 0.5.8
+- biopython 1.81
 
 The code of the 3D-GEGCL model will be upload after the paper be accepted.
